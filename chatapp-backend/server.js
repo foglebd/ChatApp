@@ -1,5 +1,7 @@
 // importing
-import express from 'express';
+// import express from 'express';
+
+const express = require('express');
 
 // app config
 const app = express ();
